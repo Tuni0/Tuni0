@@ -58,6 +58,9 @@ I build modern, responsive web applications with strong focus on frontend compon
 ## 📊 GitHub Stats
 
 <p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=Tuni0&theme=transparent&card_height=165"
+    />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuni0&layout=compact&theme=transparent&langs_count=8"
     height="165"
@@ -65,7 +68,6 @@ I build modern, responsive web applications with strong focus on frontend compon
 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tuni0)](https://git.io/streak-stats)
 
 
 <!-- Snake (light mode) -->
