@@ -57,7 +57,7 @@ I build modern, responsive web applications with strong focus on frontend compon
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuni0&layout=compact&langs_count=8&theme=transparent"
     height="165"
