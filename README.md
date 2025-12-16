@@ -64,7 +64,7 @@ I build modern, responsive web applications with strong focus on frontend compon
     style="margin-right: 20px;"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuni0&layout=compact&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuni0&layout=compact&theme=transparent&langs_count=8"
     height="165"
   />
 </p>
