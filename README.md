@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">Frontend Developer from Poland 🇵🇱</h3>
+<h3 align="center">Frontend Developer from Poland</h3>
 
 <p align="center">
-I build modern, responsive web applications with strong focus on UI, UX and performance.
+I build modern, responsive web applications with strong focus on frontend components and solid backend.
 </p>
 
 <p align="center">
