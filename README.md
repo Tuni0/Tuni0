@@ -16,7 +16,7 @@ I build modern, responsive web applications with strong focus on frontend compon
 ## 🚀 About me
 
 - 🔭 Currently working on an **E-commerce web application**
-- 🌱 Learning **Backend & DevOps** (Node.js, Docker, Cloud)
+- 🌱 Learning **Backend & DevOps** (Node.js, Docker, Cloud, AWS)
 - 👯 Open to collaborate on **frontend / fullstack projects**
 - 🤝 Looking to grow stronger in **backend architecture**
 
